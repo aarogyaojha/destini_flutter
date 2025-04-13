@@ -62,7 +62,7 @@ Story branching is managed inside the `nextStory()` function in `story_brain.dar
 ## 📷 Preview
 
 <p float="left">
-  <img src="images/preview1.jpg" width="200" />
+  <img src="images/preview2.jpg" width="200" />
   <img src="images/preview1.jpg" width="200" />
 </p>
 
